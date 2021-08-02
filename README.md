@@ -1,2 +1,2 @@
 # slider
-Great repository names are short and memorable. Need inspiration? How about scaling-meme? 
+https://arpasaha-as.github.io/slider/
